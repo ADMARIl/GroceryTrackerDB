@@ -21,7 +21,7 @@
     "expo": "~41.0.1",
     "expo-asset": "~8.1.7",
     "expo-barcode-scanner": "~8.2.1",
-    "expo-constants": "~9.1.1",
+    "expo-constants": "~10.1.3",
     "expo-font": "~8.2.1",
     "expo-linking": "^1.0.1",
     "expo-permissions": "~9.0.1",
